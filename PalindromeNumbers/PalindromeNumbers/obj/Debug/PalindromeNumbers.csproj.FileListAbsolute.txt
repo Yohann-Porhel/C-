@@ -1,0 +1,6 @@
+c:\users\yodur\onedrive\documents\visual studio 2015\Projects\PalindromeNumbers\PalindromeNumbers\bin\Debug\PalindromeNumbers.exe.config
+c:\users\yodur\onedrive\documents\visual studio 2015\Projects\PalindromeNumbers\PalindromeNumbers\obj\Debug\PalindromeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\yodur\OneDrive\Documents\Visual Studio 2015\Projects\PalindromeNumbers\PalindromeNumbers\bin\Debug\PalindromeNumbers.exe
+C:\Users\yodur\OneDrive\Documents\Visual Studio 2015\Projects\PalindromeNumbers\PalindromeNumbers\bin\Debug\PalindromeNumbers.pdb
+C:\Users\yodur\OneDrive\Documents\Visual Studio 2015\Projects\PalindromeNumbers\PalindromeNumbers\obj\Debug\PalindromeNumbers.exe
+C:\Users\yodur\OneDrive\Documents\Visual Studio 2015\Projects\PalindromeNumbers\PalindromeNumbers\obj\Debug\PalindromeNumbers.pdb

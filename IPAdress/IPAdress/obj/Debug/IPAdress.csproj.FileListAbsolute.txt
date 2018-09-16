@@ -1,0 +1,6 @@
+c:\users\yodur\onedrive\documents\visual studio 2015\Projects\IPAdress\IPAdress\bin\Debug\IPAdress.exe.config
+c:\users\yodur\onedrive\documents\visual studio 2015\Projects\IPAdress\IPAdress\bin\Debug\IPAdress.exe
+c:\users\yodur\onedrive\documents\visual studio 2015\Projects\IPAdress\IPAdress\bin\Debug\IPAdress.pdb
+c:\users\yodur\onedrive\documents\visual studio 2015\Projects\IPAdress\IPAdress\obj\Debug\IPAdress.csprojResolveAssemblyReference.cache
+c:\users\yodur\onedrive\documents\visual studio 2015\Projects\IPAdress\IPAdress\obj\Debug\IPAdress.exe
+c:\users\yodur\onedrive\documents\visual studio 2015\Projects\IPAdress\IPAdress\obj\Debug\IPAdress.pdb
