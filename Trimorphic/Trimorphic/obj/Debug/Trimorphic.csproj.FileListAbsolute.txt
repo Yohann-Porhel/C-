@@ -1,0 +1,6 @@
+C:\Users\yodur\OneDrive\Documents\GitHub\C-Sharp\Trimorphic\Trimorphic\bin\Debug\Trimorphic.exe.config
+C:\Users\yodur\OneDrive\Documents\GitHub\C-Sharp\Trimorphic\Trimorphic\bin\Debug\Trimorphic.exe
+C:\Users\yodur\OneDrive\Documents\GitHub\C-Sharp\Trimorphic\Trimorphic\bin\Debug\Trimorphic.pdb
+C:\Users\yodur\OneDrive\Documents\GitHub\C-Sharp\Trimorphic\Trimorphic\obj\Debug\Trimorphic.csprojResolveAssemblyReference.cache
+C:\Users\yodur\OneDrive\Documents\GitHub\C-Sharp\Trimorphic\Trimorphic\obj\Debug\Trimorphic.exe
+C:\Users\yodur\OneDrive\Documents\GitHub\C-Sharp\Trimorphic\Trimorphic\obj\Debug\Trimorphic.pdb
